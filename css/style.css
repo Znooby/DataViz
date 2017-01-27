@@ -998,7 +998,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: #ffffff;
-		padding: 6em 0em 4em;
+		padding: 10em 0em 8em;
 		text-align: center;
 	}
 
@@ -1032,7 +1032,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0em 4em;
+		padding: 4em 0em 4em;
 	}
 
 		.wrapper.style1 {
