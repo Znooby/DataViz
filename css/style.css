@@ -1075,11 +1075,11 @@
 
         .wrapper.style3 {
 			background-color: #ffffff;
-			-moz-background-image: linear-gradient(60deg, #ecf0f1 50%, #ecf0f1 50%);
-			-webkit-background-image: linear-gradient(60deg, #ecf0f1 50%, #ecf0f1 50%);
-			-o-background-image: linear-gradient(60deg, #ecf0f1 50%, #ecf0f1 50%);
-			-ms-background-image: linear-gradient(60deg, #ecf0f1 50%, #ecf0f1 50%);
-			background-image: linear-gradient(60deg, #ecf0f1 50%, #ecf0f1 50%);
+			-moz-background-image: linear-gradient(60deg, #ffffff 50%, #ffffff 50%);
+			-webkit-background-image: linear-gradient(60deg, #ffffff 50%, #ffffff 50%);
+			-o-background-image: linear-gradient(60deg, #ffffff 50%, #ffffff 50%);
+			-ms-background-image: linear-gradient(60deg, #ffffff 50%, #ffffff 50%);
+			background-image: linear-gradient(60deg, #ffffff 50%, #ffffff 50%);
 			color: #34495e;
 		}
         
